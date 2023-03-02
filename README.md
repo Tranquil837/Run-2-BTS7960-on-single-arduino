@@ -7,3 +7,4 @@ I have successfully developed to run 2 BTS7960 motor driver on a single ardunio
 
 # Circuit Diagram 
 
+![image](https://github.com/Tranquil837/Run-2-BTS7960-on-single-arduino/blob/main/2_BTS7960_on_single_arduino/bts7960ckt.png)
