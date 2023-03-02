@@ -1,8 +1,10 @@
+//BTS7960 1
 #define RPWM 2
 #define LPWM 3
 #define REN 4
 #define LEN 5
 
+//BTS7960 2
 #define RPWMO 6
 #define LPWMO 7
 #define RENO 8
